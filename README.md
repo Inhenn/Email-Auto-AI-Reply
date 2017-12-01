@@ -12,7 +12,7 @@ https://github.com/gunthercox/ChatterBot
 
 LICENSE&Notification for this package please see license.txt
 
-You need to replace the account (has to be gmail account) and passward part in EmailChatBot.py 
+You need to replace the account (has to be gmail account) and passward part in EmailAutoReply.py 
 
 You need to at least have one email in your inbox when running this bot, and this bot will keeping running unless you manually stop it.
 
